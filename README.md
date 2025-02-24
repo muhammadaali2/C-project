@@ -1,1 +1,1 @@
-# C-project
+Bu proyekt Turin Politexnika universiteti yo'nalishlari uchun qaysi fanlardan imtihon bo'lishi haqida. Avval programma sizga bor yo'nalishlarni chiqarib beradi, keyin siz o'zingiz uchun keraklisini tanlaysiz va sizga qaysi fanlardan imthon bo'lishini ko'rsatib beradi. Tanlash uchun kerakli raqamlarni yoki yo'nalish nomini kiritish kerak bo'ladi.
